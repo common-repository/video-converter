@@ -1,0 +1,19 @@
+#plugin-title {
+  background-image: url(//ps.w.org/video-converter/css/videoconverter_admin-style.css/banner-772x250.png);
+}
+strong.samplelink{
+background-color: #ddd;
+color: indigo;
+box-shadow: -10px 10px 5px #888888;
+border-radius: 5px;
+}
+div#donate{
+display: block;
+float: left;
+text-align: center;
+border: 2px solid #ddd;
+box-shadow: -10px 10px 5px #888888;
+}
+h2.h2{
+color:#000fff;
+}
